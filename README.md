@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhicks-dev
 - 👀 I’m interested in all things tech!
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m proficient in Javascript!
 - 💞️ I’m looking to collaborate on many projects!
 - 📫 You can reach me at deontae.hicks@outlook.com
 
